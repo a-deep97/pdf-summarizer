@@ -1,0 +1,7 @@
+streamlit
+pymupdf
+transformers
+sentence-transformers
+torch
+fpdf
+hf_xet
